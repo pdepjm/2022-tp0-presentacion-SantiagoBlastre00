@@ -18,7 +18,7 @@ Description: Ingresé el 2020, curse todas las materias de primer año y aprobe 
 
 --------------------------------
 Engineer Gaming
-![engineergaming](engineergaming.gif)
+![engineergaming](engineer_gaming.gif)
 
 --------------------------------
 
